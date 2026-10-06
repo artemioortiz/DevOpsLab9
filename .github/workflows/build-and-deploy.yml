@@ -1,4 +1,4 @@
-name: Build and Deploy DevOps Lab 09
+name: Build and Deploy DevOps Lab 10
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  APP_NAME: devopslab09
+  APP_NAME: devopslab10
 
 jobs:
   build:
